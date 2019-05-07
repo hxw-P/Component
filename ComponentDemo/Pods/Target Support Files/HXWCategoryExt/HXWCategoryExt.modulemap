@@ -1,0 +1,6 @@
+framework module HXWCategoryExt {
+  umbrella header "HXWCategoryExt-umbrella.h"
+
+  export *
+  module * { export * }
+}
