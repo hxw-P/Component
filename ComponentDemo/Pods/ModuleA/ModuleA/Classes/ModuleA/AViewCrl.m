@@ -17,11 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-//    NSString *str = @"abcdefg";
-//    NSString *newStr = [str substringToIndex:100];
-//    NSLog(@"+++++++++++++++%@",newStr);
     self.view.backgroundColor = [UIColor redColor];
-    [UIView popView:@"ddddd"];
+    [UIView popView:@"哈哈哈哈哈哈哈哈"];
 }
 
 /*
