@@ -22,6 +22,7 @@
     self.window.rootViewController=tabCrl;
     self.window.backgroundColor = [UIColor redColor];
     [self.window makeKeyAndVisible];
+    NSLog(@"master分支");
     return YES;
 }
 
